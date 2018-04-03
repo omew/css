@@ -1,0 +1,112 @@
+.coverImage {overflow: hidden;margin:0;text-align:center;padding:10px 0;background:#E0F7FA}
+.iklan-bawah{margin:10px auto;padding:25px 0;text-align:center}
+.iklan-atas {width: 300px; margin: 10px 0 10px 10px; float: right;}
+.snipetatas{margin: 10px 0;line-height: 1.6em;text-align: left;font-size: 16px;padding:10px;background: #eceef6;font-style: italic;}
+.post-info {display: block;margin:0;padding:5px 0;color:#666;line-height: 1.6em;font-size: 15px;overflow: hidden;border-bottom: 2px solid #DDD;}
+.post-info-icon {display: inline-block;float: left;margin:0;padding:0}
+.post-info-bawah {display: block;padding:10px 0;margin:10px 0;color: #666;line-height: 1.6em;border-bottom:3px solid #DDD;font-size: 14px;overflow: hidden;}
+.post-info-bawah a {font-size: 16px;}
+.admin {border-right: 1px solid #DDD;padding-right: 10px;margin-right: 10px;}
+.bagi {padding:10px 0;width:auto;background:#eceef6;text-align:center;}
+.bagikan {padding:5px;margin-top:5px;font:normal 14px arial}
+.share{text-align:center;padding:5px;margin:0 auto}
+.fb {background:#4267b2;}
+.tw {background:#00acee;}
+.gp {background:#e54343}
+.wa {background:#4dc247}
+.fb, .tw, .gp, .wa {margin:5px;padding:7px;display:inline-block;overflow: hidden;box-shadow: 3px 3px 0px 0px #DDD;font-weight: bold;}
+li.fb a, li.tw a, li.gp a, li.wa a {color:#FFFFFF;}
+abbr {text-decoration: none;}
+
+.disclaim {padding:5px; background:#f5f5f5;padding: 15px;margin: 10px 0;}
+
+#navbar-iframe {height:0px;visibility:hidden;display:none;}
+header, nav, section, aside, article, footer {display:block;}
+
+body, .body-fauxcolumn-outer {background:#fff;margin:0;padding:0;color:#2c3e50;font:normal normal 16px Sans-Serif;}
+
+a:link {color:#673AB7;text-decoration:none;}
+a:visited {color:#9c27b0;text-decoration:none;}
+
+#header-wrapper {width:100%;background: #333;padding:20px 0;margin-bottom:5px;}
+#header {text-align:center;color:#666666;margin:0;}
+#header h1, #header p {font-size:200%;font-weight:normal;color:white;text-shadow:0 1px 3px rgba(63, 63, 63, 0.8);}
+#header a {color:#fff;text-decoration:none;}
+#header a:hover {color:#fff;}
+#header .description {margin:0 5px 5px;padding:0 20px 15px;text-transform:uppercase;letter-spacing:.2em;line-height:1.4em;font:normal normal 90% &#39;Trebuchet MS&#39;, Trebuchet, Arial, Verdana, Sans-serif;color:#fff;text-shadow:none;}
+#header img {margin-left:auto;margin-right:auto;}
+
+#top-menuwrapper {background-color: #fff;border-bottom:1px solid #dedede;height: 70px;width: 100%;overflow: hidden;}
+#top-menuwrap {max-width:980px;margin:20px auto;}
+#top-menu{width:100%}
+#top-menu ul{list-style: none;}
+#top-menu ul li{float:right}
+#top-menu ul li a{line-height:1em;margin-left:5px;color:#666;font-size:16px;display:block;text-decoration:none;padding:10px 14px;border-radius:2px}
+#top-menu ul li a:hover{color:#fff;background:#80bd01}
+#top-menu ul li a.current{color:#fff;background:blue}
+.logo{float:left;}
+.logo a{color:#673AB7;text-decoration:none;margin-top:-5px;font-size:24px}
+
+#outer-wrapper{max-width:980px;margin:0 auto;padding:0;text-align:left;}
+#main-wrapper {width:66%;float:left;}
+#sidebar-wrapper {padding-top:15px;width:31%;float:right;overflow:hidden}
+#sidebar-wrapper .widget-content {padding:0;margin:0;}
+#content-wrapper {padding: 15px 0;width: 100%;}
+
+.date-header {margin:0;display:none;}
+.post {margin: 0;padding: 10px 0;}
+.post h1 {margin: 0;padding: 2px 0;}
+.post h2 {margin:0;padding:0 0 4px;font-size:20px;font-weight:normal;line-height:normal;color:#4a4a4a;font-family:arial, sans-serif;}
+.post h2 a, .post h2 a:visited, .post h2 strong {display:block;text-decoration:none;color:#4a4a4a;}
+.post h2 strong, .post h2 a:hover {color:#5295c6;}
+.post h4 {font-family: Arial, sans-serif;font-size:16px;color:#4a4a4a;text-transform:uppercase;margin:25px 0 15px;padding:0;font-weight:normal}
+.post-body {margin:10px 0;line-height:1.5em;text-align:left;font-size: 16px;color: #444;user-select: none;}
+.post-body h3, .post-body h4 {font-size:120%;margin:5px 0;padding:5px 0;}
+.post-footer {margin:.75em 0;color:#999999;letter-spacing:.1em;line-height:1.4em;font-size:80%;padding: 5px 0px 5px 0px;margin: 30px 0px 15px 0px;display:none;}
+.post-footer ul{margin-left:0;}
+
+.breadcrumbs {padding: 0;margin: 0;font-size: 15px;}
+blockquote {margin: 10px 0;padding: 15px 10px 15px 20px;background:#eceef6;clear: both;font-size: 16px;font-weight: 400;user-select: text;border-left: 3px solid #ecec;}
+
+#blog-pager-newer-link {float:left; font-size:13px}
+#blog-pager-older-link {float:right; font-size:13px}
+#blog-pager {text-align:center;padding-right:2%;padding-top:2%;padding-bottom:5%;font-weight:normal;margin-bottom:20px;}
+
+.sidebar {line-height:1.5em;}
+.sidebar h2, .sidebar h3 {padding:0 0 10px 0;margin: 0 0 5px 0;font-weight: normal;font-size: 18px; border-bottom: 2px solid #ededed;}
+.sidebar ul {list-style:none;margin:0;padding:0;}
+.sidebar li {list-style:none;padding:0;}
+.sidebar li a{color:#1565C0;display: block;padding: 6px 0px;}
+.sidebar li a:hover{color:red;text-decoration:none;}
+.sidebar .widget {margin-bottom:20px;padding:15px;background:#f5f5f5;}
+
+main .widget {margin-bottom:15px;padding:0;}
+.main .Blog {border-bottom-width:0;}
+.status-msg-border {display:none}
+.status-msg-body {padding: 10px;margin: 10px 0;background: #Ddd;}
+
+#footer{background:#323232;border-top:1px solid #ccc;width:100%;padding:0;position:relative;clear:both;}
+#credit{background:#121114;text-align:center;font-size:16px;padding:20px 0;margin-bottom:-51px;color:#ddd;}
+#credit a{color:#239189;text-decoration:none}
+
+.gambar {max-width:100%;float: none;text-align: center;font-size: 85%;margin: 0 auto;page-break-after:always;}
+.dp-thumbnail{margin:0 15px 10px 0;width:120px;height:120px;text-align:center;float:left;position:relative;background:#fff}
+
+@media screen and (max-width: 1024px){
+#top-menuwrapper {width: auto;padding: 0 2%;}
+#outer-wrapper {width: 94%;}
+  }
+
+@media screen and (max-width: 768px){
+#main-wrapper {width:100%;}
+#sidebar-wrapper{width:100%;}
+#top-menu{display:none}
+.logo {float: none;text-align: center;}
+}
+
+@media screen and (max-width: 480px){
+.iklan-atas {width: 300px;margin: 20px auto;float: none;}
+}
+@media screen and (min-width: 768px){
+.snipetatas{display:none}
+}
